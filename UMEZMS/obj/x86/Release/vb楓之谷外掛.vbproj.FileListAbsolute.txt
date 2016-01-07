@@ -1,0 +1,22 @@
+c:\users\um\documents\visual studio 2013\Projects\vb楓之谷外掛\vb楓之谷外掛\bin\x86\Release\vb楓之谷外掛.exe.config
+c:\users\um\documents\visual studio 2013\Projects\vb楓之谷外掛\vb楓之谷外掛\bin\x86\Release\vb楓之谷外掛.exe
+c:\users\um\documents\visual studio 2013\Projects\vb楓之谷外掛\vb楓之谷外掛\bin\x86\Release\vb楓之谷外掛.pdb
+c:\users\um\documents\visual studio 2013\Projects\vb楓之谷外掛\vb楓之谷外掛\bin\x86\Release\vb楓之谷外掛.xml
+c:\users\um\documents\visual studio 2013\Projects\vb楓之谷外掛\vb楓之谷外掛\obj\x86\Release\vb楓之谷外掛.Form1.resources
+c:\users\um\documents\visual studio 2013\Projects\vb楓之谷外掛\vb楓之谷外掛\obj\x86\Release\vb楓之谷外掛.Resources.resources
+c:\users\um\documents\visual studio 2013\Projects\vb楓之谷外掛\vb楓之谷外掛\obj\x86\Release\vb楓之谷外掛.vbproj.GenerateResource.Cache
+c:\users\um\documents\visual studio 2013\Projects\vb楓之谷外掛\vb楓之谷外掛\obj\x86\Release\vb楓之谷外掛.exe
+c:\users\um\documents\visual studio 2013\Projects\vb楓之谷外掛\vb楓之谷外掛\obj\x86\Release\vb楓之谷外掛.xml
+c:\users\um\documents\visual studio 2013\Projects\vb楓之谷外掛\vb楓之谷外掛\obj\x86\Release\vb楓之谷外掛.pdb
+C:\Users\um\Documents\Visual Studio 2013\Projects\vb楓之谷外掛\vb楓之谷外掛\obj\x86\Release\vb楓之谷外掛.vbprojResolveAssemblyReference.cache
+C:\Users\um\Desktop\A3261576_林郁翔_HW9\vb楓之谷外掛\vb楓之谷外掛\bin\x86\Release\vb楓之谷外掛.exe.config
+C:\Users\um\Desktop\A3261576_林郁翔_HW9\vb楓之谷外掛\vb楓之谷外掛\obj\x86\Release\vb楓之谷外掛.exe
+C:\Users\um\Desktop\A3261576_林郁翔_HW9\vb楓之谷外掛\vb楓之谷外掛\obj\x86\Release\vb楓之谷外掛.xml
+C:\Users\um\Desktop\A3261576_林郁翔_HW9\vb楓之谷外掛\vb楓之谷外掛\obj\x86\Release\vb楓之谷外掛.pdb
+C:\Users\um\Desktop\A3261576_林郁翔_HW9\vb楓之谷外掛\vb楓之谷外掛\bin\x86\Release\vb楓之谷外掛.exe
+C:\Users\um\Desktop\A3261576_林郁翔_HW9\vb楓之谷外掛\vb楓之谷外掛\bin\x86\Release\vb楓之谷外掛.pdb
+C:\Users\um\Desktop\A3261576_林郁翔_HW9\vb楓之谷外掛\vb楓之谷外掛\bin\x86\Release\vb楓之谷外掛.xml
+C:\Users\um\Desktop\A3261576_林郁翔_HW9\vb楓之谷外掛\vb楓之谷外掛\obj\x86\Release\vb楓之谷外掛.vbprojResolveAssemblyReference.cache
+C:\Users\um\Desktop\A3261576_林郁翔_HW9\vb楓之谷外掛\vb楓之谷外掛\obj\x86\Release\vb楓之谷外掛.Form1.resources
+C:\Users\um\Desktop\A3261576_林郁翔_HW9\vb楓之谷外掛\vb楓之谷外掛\obj\x86\Release\vb楓之谷外掛.Resources.resources
+C:\Users\um\Desktop\A3261576_林郁翔_HW9\vb楓之谷外掛\vb楓之谷外掛\obj\x86\Release\vb楓之谷外掛.vbproj.GenerateResource.Cache
